@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cushwake.Treasury.FunctionApi": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7071"
+    }
+  }
+}

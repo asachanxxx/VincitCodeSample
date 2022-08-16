@@ -1,0 +1,28 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "key01": true,
+    "UseInMemoryDatabase": false,
+    "MockDevUserEmail": "xxxx",
+    "BlobStorage": "UseDevelopmentStorage=true",
+    "OpenApi__Version": "v3",
+    "OpenApi__DocVersion": "1.0.0",
+    "OpenApi__DocTitle": "xxxx",
+    "IsDevelopment": true,
+    "BlobStorageContainerPrefix": "tenant-",
+    "BlobStorageSupportDocumentsFolder": "support-documents"
+  },
+  "ConnectionStrings": {
+    "LocalSqlDb": "Add your own",
+    "AzureSqlDb": "Add your own",
+    //"BlobStorage": "UseDevelopmentStorage=true"
+    "BlobStorage": "Add your own"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*",
+    "CORSCredentials": false
+  }
+}

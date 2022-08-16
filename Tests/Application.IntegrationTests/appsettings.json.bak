@@ -1,0 +1,14 @@
+{
+  "UseInMemoryDatabase": false,
+  "MockDevUserEmail": "tharindu.gunawardhana@cushwake.com",
+    "ConnectionStrings": {
+        "AzureSqlDb": "Server=(localdb)\\mssqllocaldb;Database=cw-gbl-treasurytool-d-sqldb;Trusted_Connection=True;MultipleActiveResultSets=true;"
+    },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "System": "Information",
+      "Microsoft": "Information"
+    }
+  }
+}
